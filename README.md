@@ -1,19 +1,5 @@
 Na classe Clube crie os métodos necessários para armazenar o nome do clube e os atletas vinculados ao clube. Lembrando que o conteúdo da lista são objetos da classe Atleta.
 
-Utilize o menu a baixo para controlar sua aplicação:
-=================================
-MENU
-=================================
-Finaliza
-Cadastra o Atleta
-Cadastra os Saltos do Atleta
-Relatório de Geral Atleta
-Cadastra Clube do Atleta
-Relatório de Atletas por Clube
-Relatório de Final
-=================================
-Escolha:
-
 Podes utilizar a estrutura de lista_de_atletas para popular com os atletas e lista_de_clubes para popular com os Clubes.
 
 Na opção 1 – Deves apenas cadastrar o atleta (nome). 
